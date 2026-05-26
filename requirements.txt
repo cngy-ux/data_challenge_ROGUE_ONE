@@ -4,6 +4,9 @@ numpy
 pandas
 pillow
 prettytable
+scikit-learn
+transformers
+timm
 torch
 torchvision
 tqdm
