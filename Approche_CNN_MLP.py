@@ -6,12 +6,6 @@
 # #### import  TEST
 # 
 
-# In[1]:
-
-
-get_ipython().system('pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124')
-
-get_ipython().system('pip install python-dotenv statsmodels matplotlib pillow numpy pandas transformers requests tqdm seaborn')
 
 
 # In[3]:
